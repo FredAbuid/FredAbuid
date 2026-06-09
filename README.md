@@ -44,13 +44,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=FredAbuid&theme=tokyonight"/>
 </p>
 
----
-
-## 🏆 Troféus
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=FredAbuid&theme=tokyonight&row=1&column=6"/>
-</p>
 
 ---
 
