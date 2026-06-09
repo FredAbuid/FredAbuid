@@ -1,6 +1,6 @@
 <!-- GIF TOPO -->
 <div align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExODU2eWZvbHo2eHB4cDJwczRzMTl4cWFtNjh4NXR4ZGFzM2hxcnlmaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif" width="500">
 </div>
 
 <h1 align="center">👋 Olá, eu sou Frederico!</h1>
