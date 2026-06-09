@@ -1,18 +1,71 @@
-# Olá! 👋
+<!-- GIF TOPO -->
+<div align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500">
+</div>
 
-🎓 Estudante de programação
+<h1 align="center">👋 Olá, eu sou Frederico!</h1>
 
-💻 Tecnologias:
-- PHP
-- CakePHP
-- JavaScript
-- SQL
-- Pytohn
+<p align="center">
+  • 💻 Estudante de Programação 
+  • 🚀 Desenvolvimento Web
+  • 🤖 Instusiasta de I.A
+</p>
 
-📚 Atualmente estudando:
-- Desenvolvimento Web / Arquitetura MVC
-- Banco de Dados
-- Inteligência Artificial / Google ADK
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=FredAbuid&style=for-the-badge">
+</p>
 
+---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FredAbuid&layout=compact)
+## 🚀 Tecnologias
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+  <img src="https://img.shields.io/badge/CakePHP-D33C43?style=for-the-badge&logo=cakephp&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+</p>
+
+---
+
+## 📊 Estatísticas
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FredAbuid&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FredAbuid&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🔥 Sequência de Contribuições
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FredAbuid&theme=tokyonight"/>
+</p>
+
+---
+
+## 🏆 Troféus
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=FredAbuid&theme=tokyonight&row=1&column=6"/>
+</p>
+
+---
+
+## 🐍 Snake Animation
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/FredAbuid/FredAbuid/output/github-contribution-grid-snake-dark.svg">
+</p>
+
+---
+
+## 📫 Contato
+
+<p align="center">
+  <a href="mailto:fredabuid@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
