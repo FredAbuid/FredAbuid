@@ -6,9 +6,7 @@
 <h1 align="center">👋 Olá, eu sou Frederico!</h1>
 
 <p align="center">
-  • 💻 Estudante de Programação 
-  • 🚀 Desenvolvimento Web
-  • 🤖 Instusiasta de I.A
+  💻 Estudante de Programação • 🚀 Desenvolvimento Web • 🤖 Entusiasta de I.A
 </p>
 
 <p align="center">
@@ -41,9 +39,8 @@
 ## 🔥 Sequência de Contribuições
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FredAbuid&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com/?user=FredAbuid&theme=tokyonight"/>
 </p>
-
 
 ---
 
