@@ -64,16 +64,7 @@
 ## 📊 Estatísticas
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=FredAbuid&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FredAbuid&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com/?user=FredAbuid&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=FredAbuid&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </p>
 
 <br>
